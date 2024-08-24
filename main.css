@@ -1,0 +1,61 @@
+
+body {
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.navbar{
+    background-color: #000000;
+}
+
+#home .nav .nav-link.active{
+    background-color: #404040;
+    color: #fff;
+}
+#home .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-link.active:hover{
+    color: #fff
+}
+
+.navbar-toggler{
+    background-color: #808080;
+}
+
+
+.section-title { 
+    font-family: "Bebas Neue", sans-serif;
+    
+}
+
+
+#sobre, #servicos {
+    background-color:#808080;
+}
+
+.text-colored {
+    color: #202020;
+}
+
+.nav-produtos .nav-link.active,
+#contatos button  {
+    background-color:#202020;
+    color:#fff;
+}
+
+.nav-produtos .nav-link {
+    color: #202020;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+#contatos {
+    background-color: #808080;
+}
