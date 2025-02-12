@@ -1,4 +1,4 @@
-# 💈 Barbearia Alpha Silk - Landing Page
+# 💈 Barbearia  - Landing Page
 
 
 🚀 Landing page desenvolvida para divulgar os serviços da **Barbearia Alpha Silk**, utilizando **HTML, CSS e BootStrap**.
